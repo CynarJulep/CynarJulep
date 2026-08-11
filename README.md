@@ -1,4 +1,4 @@
-<!-- Profile README — Renzo Cosentino / CynarJulep -->
+<!-- Profile README — Renzo Cosentino / CynarJulep · refresh -->
 
 <div align="center">
 
