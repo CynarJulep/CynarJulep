@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate arcade contribution graphs
 
 on:
   schedule:
@@ -11,20 +11,28 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Generate pacman + breakout
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman,breakout"
 
-      - name: Generate snake GIFs
+      - name: Generate snake (SVG + GIF)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Optional: repo secret GH_PAT (classic, read:user) densifies grid with private contributions
+          github_token: ${{ secrets.GH_PAT || github.token }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?palette=github&color_snake=#58A6FF
 
-      - name: Push snake diagrams
+      - name: Push arcade assets to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

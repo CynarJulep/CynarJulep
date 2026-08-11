@@ -130,21 +130,58 @@ Construyo **dispositivos de encuesta y bases de datos**, exploto datos administr
 
 ## Stats
 
+<!-- Hosts públicos de github-readme-stats.vercel.app suelen ir a 503; usamos mirrors activos -->
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CynarJulep&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CynarJulep&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CynarJulep&theme=github_dark" alt="GitHub stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CynarJulep&theme=github_dark" alt="Repos per language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CynarJulep&theme=github_dark" alt="Top commit language" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CynarJulep&theme=transparent&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CynarJulep&theme=github_dark&utcOffset=-3" alt="Productive time" height="180" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CynarJulep&theme=dark&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CynarJulep&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Activity graph" width="100%" />
+</div>
+
+### Arcade · contribuciones
+
+La viborita / Pac-Man comen las **celdas verdes del contribution graph** (días con commits), no los repos en sí.  
+Cuantas más contribuciones visibles (incluye privadas), más largo y “lleno” queda el juego.
+
+<div align="center">
+
+**Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br />
+
+<img alt="Snake GIF" src="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake.gif" width="100%" />
+
+**Pac-Man**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/pacman-contribution-graph.svg" />
+</picture>
+
+**Breakout**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/breakout-contribution-graph.svg" />
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/breakout-contribution-graph.svg" />
+</picture>
+
 </div>
 
 ---
