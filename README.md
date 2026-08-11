@@ -1,32 +1,65 @@
 <!--
-  Profile README — Cosentino Renzo / CynarJulep
-  https://github.com/CynarJulep
+  Profile README — Renzo Cosentino / CynarJulep
+  CV: https://renzocosentino.netlify.app/
 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Hola%2C+soy+Renzo+Cosentino;Sociolog%C3%ADa+%2B+Datos+%2B+Software;GovTech+%26+automatizaci%C3%B3n+en+Santa+Fe" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Renzo+Cosentino;Sociolog%C3%ADa+%C2%B7+Datos+%C2%B7+Software;Encuestas%2C+admin+data+%26+GovTech" alt="Typing SVG" />
 
-**Estudiante de Sociología (UNL)** · Santa Fe, Argentina  
-Construyo herramientas de **datos, automatización y productos web** para gestión pública y análisis cuantitativo.
+**Sociólogo** · datos administrativos, encuestas y sistemas en producción  
+UNL · Santa Fe → Paris · abierto a misiones de investigación 2026–2027
 
-[![GitHub](https://img.shields.io/badge/GitHub-CynarJulep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CynarJulep)
-[![Location](https://img.shields.io/badge/Santa_Fe-Argentina-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/CynarJulep)
-[![UNL](https://img.shields.io/badge/UNL-Sociolog%C3%ADa-0E3A5F?style=for-the-badge)](https://www.unl.edu.ar/)
+<br />
+
+<!-- CTA principal: sitio CV -->
+<a href="https://renzocosentino.netlify.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_CV_%2F_Portfolio-renzocosentino.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Abrir CV web" />
+</a>
+
+<br /><br />
+
+<a href="https://renzocosentino.netlify.app/">
+  <img
+    src="https://api.microlink.io/?url=https%3A%2F%2Frenzocosentino.netlify.app%2F&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=800"
+    alt="Vista previa del CV — renzocosentino.netlify.app"
+    width="720"
+    style="border-radius: 8px; border: 1px solid #30363d;"
+  />
+</a>
+
+<br /><br />
+
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://renzocosentino.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-CynarJulep-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CynarJulep)
+[![Location](https://img.shields.io/badge/Paris_·_Santa_Fe-1F6FEB?style=flat-square)](https://renzocosentino.netlify.app/)
+[![UNL](https://img.shields.io/badge/UNL-Sociolog%C3%ADa-0E3A5F?style=flat-square)](https://www.unl.edu.ar/)
 
 </div>
+
+---
+
+## Curriculum & contacto
+
+| | |
+|---|---|
+| **Sitio CV** | [renzocosentino.netlify.app](https://renzocosentino.netlify.app/) — recorrido, métodos, sistemas en producción y formación |
+| **Perfil** | Sociólogo con ~5 años en administración pública · R, Python, PostgreSQL · restitución a decisores no técnicos |
+| **Highlights** | 2.000+ encuestados · −70% tiempo en reportes · 30+ apps en Netlify/Vercel · 4.000+ atletas (Juegos Suramericanos 2026) |
+
+> El CV está en francés (perfil profesional EU). El código y los datos sensibles de sistemas municipales permanecen privados; demo bajo pedido.
 
 ---
 
 ## Sobre mí
 
 Trabajo en la intersección entre **ciencias sociales, datos cuantitativos y desarrollo de software**.  
-Diseño sistemas que reducen trabajo manual en oficinas públicas: reportes, dashboards, bots, CRM ligeros y flujos de atención ciudadana.
+Diseño bases, automatizo el tratamiento y restauro resultados: paneles, pipelines R/RMarkdown, bots y productos web para gestión pública.
 
-- Análisis cuantitativo (EPH, indicadores urbanos, reportes operativos)
-- Productos web para operación diaria (paneles, buscadores, automatizaciones)
-- Integraciones con WhatsApp, PDF, scraping y bases PostgreSQL
-- Enfoque en utilidad real: menos Excel, más sistemas trazables
+- Encuestas, muestreo y métodos mixtos  
+- Datos administrativos a gran escala (geolocalizados, trazables)  
+- Productos en producción: dashboards, certificados, automatizaciones  
+- Stack: **R · Python · PostgreSQL · JS/TS · Netlify · Vercel · Supabase**
 
 ---
 
@@ -53,6 +86,7 @@ Diseño sistemas que reducen trabajo manual en oficinas públicas: reportes, das
   <img alt="shiny" src="https://img.shields.io/badge/shiny-383E42?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="data.table" src="https://img.shields.io/badge/data.table-2C3E50?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="rmarkdown" src="https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img alt="Quarto" src="https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white" />
 </p>
 
 ### Web, automatización & datos
@@ -60,35 +94,35 @@ Diseño sistemas que reducen trabajo manual en oficinas públicas: reportes, das
 <p align="center">
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp_API_bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img alt="QGIS" src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
 </p>
 
 ---
 
-## Proyectos destacados (públicos)
+## Proyectos en GitHub (públicos)
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| [**organizador-pai**](https://github.com/CynarJulep/organizador-pai) | Gestión y automatización del Protocolo de Acción Inmediata (derivación de reclamos urgentes + WhatsApp) | Node.js · Express · SQLite · PDF |
-| [**whatsapp-pdf-bot**](https://github.com/CynarJulep/whatsapp-pdf-bot) | Envío automatizado de PDFs por WhatsApp Business con sesión persistente | Node.js · Supabase · Docker · HF Spaces |
-| [**feriado-widget**](https://github.com/CynarJulep/feriado-widget) | Widget embebible de feriados para paneles de Atención Ciudadana | HTML · JS · GitHub Pages |
-| [**Trabajo-Final-Eant**](https://github.com/CynarJulep/Trabajo-Final-Eant) | Trabajo final — Social Data Analytics (EANT) | R · Análisis de datos |
+| [**organizador-pai**](https://github.com/CynarJulep/organizador-pai) | Gestión y automatización del Protocolo de Acción Inmediata (derivación + WhatsApp) | Node.js · Express · PDF |
+| [**whatsapp-pdf-bot**](https://github.com/CynarJulep/whatsapp-pdf-bot) | Envío automatizado de PDFs por WhatsApp Business (sesión persistente) | Node · Supabase · Docker |
+| [**feriado-widget**](https://github.com/CynarJulep/feriado-widget) | Widget embebible de feriados para paneles de Atención Ciudadana | HTML · JS · Pages |
+| [**Trabajo-Final-Eant**](https://github.com/CynarJulep/Trabajo-Final-Eant) | Trabajo final — Social Data Analytics (EANT) | R · datos |
 
-> Gran parte de mi trabajo aplicado (dashboards municipales, CRM, reportes SAC, rotaciones, geolocalización) vive en repos privados por datos operativos. Si te interesa ver algo en detalle, escribime.
+> Dashboards municipales, CRM, reportes SAC, certificados IMUSA, etc. están en repos **privados** (datos sensibles). Detalle y demos: [CV web](https://renzocosentino.netlify.app/).
 
 ---
 
 ## Foco actual
 
 ```text
-govtech / atención ciudadana
-├── automatización de reportes e informes
-├── paneles operativos y buscadores
-├── bots e integraciones (WhatsApp, PDF, Selenium)
-└── análisis cuantitativo con R + Python
+sociología aplicada + datos + software
+├── encuestas y datos administrativos
+├── pipelines R / RMarkdown / Quarto
+├── paneles y productos web (Netlify / Vercel)
+└── abierto a investigación / vacations (Paris, 2026–27)
 ```
 
 ---
@@ -118,9 +152,13 @@ govtech / atención ciudadana
 
 <div align="center">
 
-**¿Charlamos?** Abrí un issue en cualquier repo o contactame desde GitHub.
+### Empezá por el CV
 
-<br />
+<a href="https://renzocosentino.netlify.app/">
+  <img src="https://img.shields.io/badge/Abrir_renzocosentino.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="CV web" />
+</a>
+
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=CynarJulep&style=flat-square&color=58A6FF" alt="Profile views" />
 
