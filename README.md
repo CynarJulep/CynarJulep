@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Renzo+Cosentino;Sociologue+%C2%B7+enqu%C3%AAtes+%26+donn%C3%A9es;Sociolog%C3%ADa+%C2%B7+datos+administrativos+%C2%B7+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Renzo+Cosentino;Datos+%C2%B7+automatizaci%C3%B3n+%C2%B7+software;R+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+JS%2FTS" alt="Typing SVG" />
 
-**Sociólogo** — encuestas, datos administrativos y sistemas en producción  
-~5 años en administración pública · UNL · Santa Fe → **Paris**
+**Sociología + datos + productos web**  
+Recorrido, métricas y CV completo → [renzocosentino.netlify.app](https://renzocosentino.netlify.app/)
 
 <br />
 
@@ -31,66 +31,23 @@
 <a href="https://renzocosentino.netlify.app/"><img src="https://img.shields.io/badge/CV_web-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="CV" /></a>
 <a href="https://github.com/CynarJulep"><img src="https://img.shields.io/badge/GitHub-CynarJulep-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://santafeciudad.gov.ar/"><img src="https://img.shields.io/badge/Santa_Fe_Ciudad-1B4F72?style=flat-square" alt="Municipalidad de Santa Fe" /></a>
-<a href="https://www.unl.edu.ar/"><img src="https://img.shields.io/badge/UNL-Sociolog%C3%ADa-0E3A5F?style=flat-square" alt="UNL" /></a>
 <a href="https://certificadosimusa.com.ar/"><img src="https://img.shields.io/badge/IMUSA_certificados-2E7D32?style=flat-square" alt="IMUSA" /></a>
 
 </div>
 
 ---
 
-## Resultados (selección)
+## Qué construyo
 
-| Métrica | Detalle |
+Sistemas de datos y automatización: pipelines **R / Python**, bases **PostgreSQL**, paneles y bots en producción (**Netlify · Vercel · Supabase**).
+
+| En producción (ejemplos) | |
 |---|---|
-| **2.000+** habitantes | Encuesta de opinión de punta a punta en **10 barrios** (muestra, cuestionarios, protocolo de campo) |
-| **−70%** tiempo | Cadena automatizada de reportes con **R + RMarkdown** (dato crudo → informe final) |
-| **3 años** de reclamos | Base geolocalizada y categorizada para una ciudad de **~500.000** habitantes |
-| **56.000+** llamadas | Panel operativo del call center de Atención Ciudadana (volúmenes, pérdidas, ritmos horarios) |
-| **4.000+** atletas / **15** países | Planificación del village olímpico — Juegos Suramericanos Santa Fe **2026** · **43** deportes |
-| **30+** apps | Dashboards y productos desplegados en **Netlify** y **Vercel** |
-| **−60%** errores | Tableros de control automatizados (DNRPA / gestión operativa) |
+| [**Certificados IMUSA**](https://certificadosimusa.com.ar/) | Emisión/validación de certificados (dominio propio) |
+| Paneles & reportes | Call center, pipelines R/RMarkdown, mapas |
+| Bots / ops | WhatsApp + PDF, organizador PAI (repos públicos abajo) |
 
----
-
-## Sistemas en producción
-
-Diseño la base, automatizo el tratamiento y restauro el resultado. Algunos dispositivos construidos para administraciones públicas:
-
-| Sistema | Qué resuelve |
-|---|---|
-| **Panel de llamadas ciudadanas** | Seguimiento del call center: 56.000+ llamadas analizadas, actualización continua |
-| **Pipeline de reportes** | De dato crudo a informe final sin intervención manual (−70% tiempo) |
-| **Mapa interactivo de escuelas** | Cartografía de establecimientos de Santa Fe: búsqueda, filtros y ficha por punto |
-| **[Certificados IMUSA](https://certificadosimusa.com.ar/)** | Plataforma oficial de emisión/validación de certificados veterinarios (dominio propio) |
-| **Organizador PAI** · **WhatsApp PDF bot** | Automatización operativa (ver repos públicos abajo) |
-
-> Tratan datos públicos y personales sensibles: el código y las bases quedan **privados**. Demo bajo pedido — más detalle en el [CV](https://renzocosentino.netlify.app/).
-
----
-
-## Sobre mí
-
-Construyo **dispositivos de encuesta y bases de datos**, exploto datos administrativos a gran escala (**R · Python · PostgreSQL**) y restauro hallazgos a decisores no técnicos.
-
-- Coordinador del servicio de Atención Ciudadana — [Municipalidad de Santa Fe](https://santafeciudad.gov.ar/)
-- Experiencia directa con administraciones locales latinoamericanas
-- Métodos mixtos · datos sensibles · restitución clara
-- Basado en **Paris**, autorizado a trabajar en Francia · abierto a misiones / vacations / assistanats de recherche **2026–2027**
-
-### Idiomas
-
-`ES` nativo · `EN` C1 (IELTS Academic) · `FR` B1→B2 (DELF B2 nov. 2026) · `IT` B1
-
-### Formación
-
-- **Licenciatura en Sociología** (BAC+5) — Universidad Nacional del Litoral · 2026 (tesis en curso + trabajo full-time)
-- Intercambio — Università degli Studi di Ferrara (Italia) · 2022–2023
-- Certificación **Social Data Analytics** — EANT, Buenos Aires · 2021
-
-### Investigación
-
-- **En curso:** desigualdades territoriales y recurso a dispositivos municipales de reclamo (datos administrativos × indicadores socio-económicos · no-recours aux droits)
-- **Publicación:** contribuyente — *Santa Fe Cómo Vamos 2023* (Municipalidad + Cámara de Comercio)
+> Código y datos sensibles → repos **privados**. Contexto y demos: [CV](https://renzocosentino.netlify.app/).
 
 ---
 
@@ -117,20 +74,18 @@ Construyo **dispositivos de encuesta y bases de datos**, exploto datos administr
 
 ---
 
-## Código público en GitHub
+## Repos públicos
 
 | Repo | Qué hace |
 |---|---|
-| [**organizador-pai**](https://github.com/CynarJulep/organizador-pai) | Gestión del Protocolo de Acción Inmediata (derivación urgente + WhatsApp) |
-| [**whatsapp-pdf-bot**](https://github.com/CynarJulep/whatsapp-pdf-bot) | Envío automatizado de PDFs por WhatsApp Business (Supabase + Docker) |
-| [**feriado-widget**](https://github.com/CynarJulep/feriado-widget) | Widget de feriados para paneles de Atención Ciudadana |
-| [**Trabajo-Final-Eant**](https://github.com/CynarJulep/Trabajo-Final-Eant) | Trabajo final — Social Data Analytics |
+| [**organizador-pai**](https://github.com/CynarJulep/organizador-pai) | Protocolo de Acción Inmediata (derivación + WhatsApp) |
+| [**whatsapp-pdf-bot**](https://github.com/CynarJulep/whatsapp-pdf-bot) | Envío de PDFs por WhatsApp Business (Supabase + Docker) |
+| [**feriado-widget**](https://github.com/CynarJulep/feriado-widget) | Widget de feriados para paneles operativos |
+| [**Trabajo-Final-Eant**](https://github.com/CynarJulep/Trabajo-Final-Eant) | Social Data Analytics (EANT) |
 
 ---
 
 ## Stats
-
-<!-- Hosts públicos de github-readme-stats.vercel.app suelen ir a 503; usamos mirrors activos -->
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CynarJulep&theme=github_dark" alt="GitHub stats" height="180" />
@@ -147,10 +102,7 @@ Construyo **dispositivos de encuesta y bases de datos**, exploto datos administr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CynarJulep&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Activity graph" width="100%" />
 </div>
 
-### Arcade · contribution games
-
-La viborita / Pac-Man comen las **celdas verdes del contribution graph** (días con commits), no los repos en sí.  
-Cuantas más contribuciones visibles (incluye privadas), más largo y “lleno” queda el juego.
+### Arcade
 
 <div align="center">
 
@@ -161,8 +113,6 @@ Cuantas más contribuciones visibles (incluye privadas), más largo y “lleno�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<br />
 
 <img alt="Snake GIF" src="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake.gif" width="100%" />
 
@@ -188,17 +138,12 @@ Cuantas más contribuciones visibles (incluye privadas), más largo y “lleno�
 
 <div align="center">
 
-### Parlons terrain, parlons données.
-
 <a href="https://renzocosentino.netlify.app/">
-  <img src="https://img.shields.io/badge/Abrir_CV-renzocosentino.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="CV web" />
+  <img src="https://img.shields.io/badge/CV_completo-renzocosentino.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="CV web" />
 </a>
 
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=CynarJulep&style=flat-square&color=58A6FF" alt="Profile views" />
-
-<sub>Achievements · CV · arcade contributions</sub>
-
 
 </div>
