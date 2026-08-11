@@ -147,7 +147,7 @@ Construyo **dispositivos de encuesta y bases de datos**, exploto datos administr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CynarJulep&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Activity graph" width="100%" />
 </div>
 
-### Arcade · contribuciones
+### Arcade · contribution games
 
 La viborita / Pac-Man comen las **celdas verdes del contribution graph** (días con commits), no los repos en sí.  
 Cuantas más contribuciones visibles (incluye privadas), más largo y “lleno” queda el juego.
