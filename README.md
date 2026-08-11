@@ -104,6 +104,16 @@ govtech / atención ciudadana
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CynarJulep&theme=transparent&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
+### Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/CynarJulep/CynarJulep/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 <div align="center">
