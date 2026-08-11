@@ -198,4 +198,7 @@ Cuantas más contribuciones visibles (incluye privadas), más largo y “lleno�
 
 <img src="https://komarev.com/ghpvc/?username=CynarJulep&style=flat-square&color=58A6FF" alt="Profile views" />
 
+<sub>Achievements · CV · arcade contributions</sub>
+
+
 </div>
